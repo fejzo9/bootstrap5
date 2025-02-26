@@ -11,13 +11,13 @@ Ovaj repozitorij sadrži projekat u kojem učim i koristim **Bootstrap 5** za br
 ## 📂 Struktura projekta
 ```
 /bootstrap5-project <br>
-│── index.html  <br>
-│── style.css  <br>
-│── script.js  <br>
-│── README.md  <br>
-└── assets/  <br>
-    ├── images/  <br>
-    ├── css/  <br>
+│── index.html  
+│── style.css  
+│── script.js  
+│── README.md  
+└── assets/  
+    ├── images/  
+    ├── css/  
     ├── js/
 ```
 ## 📖 Kako pokrenuti projekat?
