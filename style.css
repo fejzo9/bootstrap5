@@ -1,4 +1,6 @@
-:root {
-    --bs-primary: #ff5733; /* Promjena Primary boje */
-    --bs-danger: #900C3F;  /* Promjena Danger boje */
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+        max-width: 500px;
+    }
 }
